@@ -1,4 +1,3 @@
-import GunServer = require('gun');
 import Gun = require('gun/gun');
 
 const gun = new Gun();
